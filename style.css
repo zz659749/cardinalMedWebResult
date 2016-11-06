@@ -1,0 +1,26 @@
+  .blue-box {
+    background-color: #0077b5;
+    padding: 50px;
+    margin: -15px;
+  }
+
+.grey-background{
+  background-color:#d3d3d3;
+  padding:50px;
+}
+.white-background{
+  background-color:white;
+  padding:50px;
+}
+.font-type{
+  font-size:20px;
+}
+.large-image{
+  width:400px;
+}
+.small-image{
+  width:40px;
+}
+.search{
+  width:800px;
+}
